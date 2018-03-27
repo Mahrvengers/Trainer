@@ -31,6 +31,8 @@ Aktuell gibt es :
 
   - Gegenfragen: Das sind algorithmische Umarbeitungen von Multiple Choice Aufgaben. Also man hat z.B. so eine typische Microsoft Frage mit Erklärungen und 5 Punkten und Punkt 3 ist falsch, und dazu gibts eine Texterklärung. Dann macht diese Umwandlung aus der Multiple Choice Aufgabe lauter Textaufgaben, in denen Sie die Erklärung in einen Lückentext umwandelt und in der Frage steht dann: "Warum ist bei der Frage ... die Antwort ... RICHTIG/FALSCH?" und dann muss man es halt wissen.. :)
 
+  - Es gibt noch Wortsuchaufgaben. Aber im Moment habe ich keine Ahnung mehr, was das war :).
+
 ## Ich hab eine digitale Quelle, können wir die Fragen daraus irgendwie ableiten?
 
 Das ist mein präferierter Weg. Manchmal gibt es ein Buch digital 
