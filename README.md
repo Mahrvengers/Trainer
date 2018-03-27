@@ -8,7 +8,14 @@ Seit meiner letzten eigenen Version hat JavaScript wieder einige Quantensprünge
 
 ## Lass mich trainieren!
 
-Wenn du trainieren möchtest, dann besuche diese URL:
-$GITHUB PAGES$
+Wenn du mit den hier direkt integrierten Modulen trainieren möchtest, dann besuche diese URL:
+
+[Go training go!](https://mahrvengers.github.io/Trainer/Source/)
+
+## Screenshots + Erklärung
+
+[Dokumentation](Documentation/index.md)
+
+
 
 
