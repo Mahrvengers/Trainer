@@ -1,0 +1,26 @@
+{
+  "name": "trainer",
+  "version": "1.0.0",
+  "description": "A trainer, like a vocabulary trainer, only with more features and more question types and more awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node" : "9.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahrvengers/Trainer.git"
+  },
+  "keywords": [
+    "Vocabulary",
+    "trainer"
+  ],
+  "author": "Stefan Hoffmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mahrvengers/Trainer/issues"
+  },
+  "homepage": "https://github.com/Mahrvengers/Trainer#readme"
+}
