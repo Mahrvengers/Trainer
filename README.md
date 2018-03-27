@@ -1,6 +1,6 @@
 # Trainer
 
-![Hauptbildschirm](Dokumentation/images/Hauptbildschirm.png)
+![Hauptbildschirm](Documentation/images/Hauptbildschirm.png)
 
 Dieses Projekt entsteht gerade aus div. unterschiedlichen Trainern, die ich über meine Lebenszeit bereits entwickelt habe, um mein Lernen zu unterstützen. 
 
